@@ -11,3 +11,4 @@ master
 feature1
 >>>>>>> feature1
 20170315
+Git is free software ...
