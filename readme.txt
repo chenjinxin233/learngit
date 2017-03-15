@@ -11,4 +11,8 @@ master
 feature1
 >>>>>>> feature1
 20170315
+<<<<<<< HEAD
 Git is free software ...
+=======
+chenjinxin
+>>>>>>> dev
