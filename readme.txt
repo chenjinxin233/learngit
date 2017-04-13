@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
@@ -16,3 +17,7 @@ Git is free software ...
 =======
 chenjinxin
 >>>>>>> dev
+=======
+Hello,my name is chenjinxin,from guangxi-wuzhou.
+and what is your name?
+>>>>>>> ebc5818d3172cbea4637ffde77853e7b64af9b4f
